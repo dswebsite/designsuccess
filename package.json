@@ -24,7 +24,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-addons-update": "^15.5.2",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.2",
     "react-id-swiper": "^1.6.6",
     "react-modal": "^3.5.1",
     "react-player": "^0.20.0",
