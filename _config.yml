@@ -1,0 +1,30 @@
+---
+title: 'design:success – global award-winning innovation agency, making
+impossible possible!'
+timezone: UTC
+email: success@designsuccess.com
+description: 'design:success - The world’s first and only patented &amp; certified
+innovation process. Transforming and reinventing Fortune500
+companies and the world’s greatest brands.'
+keyworkds: 'Innovation agency, business consulting, Innovation, product and service
+design, reinventing, reposition, patented process, insights, branding,
+design, product design, advertising, commercials, store design, design
+success, innovation challenges, Innovation ROI'
+og_image: '/assets/img/og_image.jpg'
+baseurl: 
+url: http://designsuccess.com
+markdown: kramdown
+plugins:
+- jekyll-feed
+- jekyll-autoprefixer
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- webpack
+sass:
+  style: compressed
+github:
+- metadata
+autoprefixer:
+  only_production: false
