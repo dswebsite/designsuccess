@@ -13,11 +13,11 @@ const micrositesData = {
     },
     {
       id: 2,
-      title: "spot:on</br>research & insight",
+      title: "find:out</br>market research",
       desc:
-        "The must have market research tool to always be spot on.",
-      image: "spoton.jpg",
-      link: "spoton/"
+        "Our internal market research agency finds solutions where others can’t via our proprietary methodologies.",
+      image: "find.jpg",
+      link: "findout/"
     },
     {
       id: 3,
