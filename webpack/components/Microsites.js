@@ -13,11 +13,11 @@ const micrositesData = {
     },
     {
       id: 2,
-      title: "find:out</br>market research",
+      title: "spot:on</br>research & insight",
       desc:
-        "Our internal market research agency finds solutions where others can’t via our proprietary methodologies.",
-      image: "find.jpg",
-      link: "findout/"
+        "The must have market research tool to always be spot on.",
+      image: "spoton.jpg",
+      link: "spoton/"
     },
     {
       id: 3,
@@ -49,16 +49,16 @@ const micrositesData = {
       title: "sports:direct</br>social media platform",
       desc:
         "Sports social media solution to grow, monitor, manage and protect your talent, brand & ROI",
-      image: "sports.jpg",
+      image: "Soccer-4k.jpg",
       link: "sportsdirect/"
     },
     {
       id: 7,
-      title: "say ‘hi’ to</br>artificial intelligence",
+      title: "china</br>不可能，可能",
       desc:
-        "We call her Aieeda (Artificial Intelligence Engagement Engine with Data Analytics) – she not only analyses deep data but interact with customers in a natural way – in multiple languages.",
-      image: "aieeda.jpg",
-      link: "ai/"
+        "Impossible, possible. We help companies in China make the impossible, possible by expanding globally, the smart way.",
+      image: "china.jpg",
+      link: "china/" 
     }
   ]
 };

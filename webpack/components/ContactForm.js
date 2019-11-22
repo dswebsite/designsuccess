@@ -20,8 +20,9 @@ class ContactForm extends Component {
 
   sendMail(data) {
     console.log("Form submitted and valid with:", data);
-    const url = "https://formspree.io/mgydvdem";
-    const dummyUrl = "https://formspree.io/fobos.salmeron@gmail.com";
+    //const url = "https://formspree.io/mgydvdem";
+    const url = "https://formspree.io/mdoolbod";
+//    const dummyUrl = "https://formspree.io/fobos.salmeron@gmail.com";
 
     var myself = this;
     var xhr = new XMLHttpRequest();
@@ -152,7 +153,7 @@ class ContactForm extends Component {
                 />
                 <span>{formState.errors.message}</span>
               </div>
-              <button type="submit">send</button>
+              <button type="submit">Send</button>
               {mailSent}
             </div>
           )}

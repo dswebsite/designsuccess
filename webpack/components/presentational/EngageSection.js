@@ -23,12 +23,12 @@ class EngageSection extends Component {
             <li>chicago</li>
             <li>toronto</li>
             <li>copenhagen</li>
-            <li>singapore</li>
+            <li>shanghai</li>
           </ul>
         </div>
         <div className="locationContact">
-          <p><b>USA: </b>1&nbsp;844&nbsp;814&nbsp;6444</p>
-          <p><b>Mexico: </b>1&nbsp;55&nbsp;8526&nbsp;8384</p>
+          <p><b>USA: </b>+1&nbsp;844&nbsp;814&nbsp;6444</p>
+          <p><b>Mexico: </b>+52&nbsp;55&nbsp;8526&nbsp;8384</p>
           <p>
             <a href="mailto:success@designsuccess.com">
               success@designsuccess.com
