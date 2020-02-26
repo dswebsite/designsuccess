@@ -26,7 +26,7 @@ class HowSection extends Component {
       <section id="how">
         <h2>how</h2>
         <h4>video: our patented & ISO:9001 certified process</h4>
-        <ReactPlayer className="video" url="https://vimeo.com/286558912" />
+        <ReactPlayer className="video" url="http://player.youku.com/embed/XNDE3NDQ1NzE1Ng==" />
         <h2>how</h2>
         <h4 id="outOfGrid">our patented & ISO:9001 certified process</h4>
         <Process />

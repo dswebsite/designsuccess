@@ -12,12 +12,12 @@ const micrositesData = {
       link: "kimnorland/"
     },
     {
-      id: 2,
-      title: "find:out</br>market research",
+      id: 2,      
+      title: "spot:on</br>research & insight",
       desc:
-        "Our internal market research agency finds solutions where others can’t via our proprietary methodologies.",
-      image: "find.jpg",
-      link: "findout/"
+        "The must have market research tool to always be spot on.",        
+      image: "spoton.jpg",
+      link: "spot-on/"
     },
     {
       id: 3,
